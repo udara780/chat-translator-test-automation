@@ -105,8 +105,8 @@ test_automation/                        ← Project root
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/test_automation.git
-cd test_automation
+git clone https://github.com/udara780/chat-translator-test-automation.git
+cd chat-translator-test-automation
 ```
 
 ### 2. (Recommended) Create a virtual environment
